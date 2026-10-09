@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-k
-=======
+
 hi
 hello
->>>>>>> feature
+cya
+
